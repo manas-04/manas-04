@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Manas
+### Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Manas Arora
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manas-04&style=flat" alt="raksha009" /> </p>
 
@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-arora-274b681b1/)
 
 <h3>
- I’m currently persuing my B.Tech. in Information Technology from USICT. I am a Full Stack Developer.</b>. <br>
+ I’m currently persuing my B.Tech. in Information Technology from USICT. I am a Full Stack Developer.</b><br>
  
  ## 🙋‍♂️ About Me
 
@@ -41,4 +41,4 @@
 
 </p>
 <br> <br>
-<h4 align="center"> Thanks for Visiting!!</h4>
+<h3 align="center"> Thanks for Visiting!!</h3>
