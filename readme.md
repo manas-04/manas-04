@@ -24,7 +24,7 @@
     <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="nodejs" width="60" height="70"/> 
     <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="mongo" width="70" height="80"/>
     <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="80"/>
-    <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" alt="express" width="70" height="80"/>
+    <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=white" alt="express" width="70" height="80"/>
     <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="cpp" width="70" height="80"/>
     <img src="https://icongr.am/devicon/git-original.svg?size=129&color=36a1c4" alt="git" width="70" height="80"/> 
     <img src="https://icongr.am/devicon/github-original.svg?size=129&color=36a1c4" alt="github" width="70" height="80"/>
