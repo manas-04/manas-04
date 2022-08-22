@@ -5,6 +5,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manas-04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-arora-274b681b1/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetCode&logoColor=white&color=grey)](https://leetcode.com/manas_04/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0077B5?style=for-the-badge&logo=geeksforgeeks&logoColor=white&color=success)](https://auth.geeksforgeeks.org/user/manasarora038)
 
 <h3>
  I’m currently persuing my B.Tech. in Information Technology from USICT. I am a Full Stack Developer.</b><br>
