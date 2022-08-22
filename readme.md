@@ -35,9 +35,9 @@
 
 ## 📊 My Github Stats
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-04&show_icons=true&theme=dark&locale=en&layout=compact" alt="manas-04" /> <div height="30"><h3 align="center"> Thanks for Visiting!!</h3></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-04&show_icons=true&theme=dark&locale=en&layout=compact" alt="manas-04" /> <div height="30"><h3 align="center"> 
+<br> <br>Thanks for Visiting!!</h3></div>
  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=manas-04&hide=stars&show_icons=true&theme=dracula&line_height=28">
 
 </div>
 <br> <br>
-<!-- <h3 align="center"> Thanks for Visiting!!</h3> -->
