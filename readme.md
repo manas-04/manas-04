@@ -4,6 +4,7 @@
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manas-04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-arora-274b681b1/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetCode&logoColor=white&color=grey)](https://leetcode.com/manas_04/)
 
 <h3>
  I’m currently persuing my B.Tech. in Information Technology from USICT. I am a Full Stack Developer.</b><br>
@@ -36,7 +37,7 @@
 ## 📊 My Github Stats
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-04&show_icons=true&theme=dark&locale=en&layout=compact" alt="manas-04" /> <div height="30"><h3 align="center"> 
-<br> <br>Thanks for Visiting!!</h3></div>
+Thanks for Visiting!!</h3></div>
  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=manas-04&hide=stars&show_icons=true&theme=dracula&line_height=28">
 
 </div>
