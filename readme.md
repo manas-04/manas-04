@@ -35,11 +35,9 @@
 
 ## 📊 My Github Stats
 
-<p >
+<p >  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-04&show_icons=true&theme=dark&locale=en&layout=compact" alt="manas-04" />
  <img align = "left" src="https://github-readme-stats.vercel.app/api?username=manas-04&hide=stars&show_icons=true&theme=dracula&line_height=28">
  <div height="20"></div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-04&show_icons=true&theme=dark&locale=en&layout=compact" alt="manas-04" />
-
 </p>
 <br> <br>
 <!-- <h3 align="center"> Thanks for Visiting!!</h3> -->
