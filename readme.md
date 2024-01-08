@@ -33,8 +33,5 @@
     <img src="https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor" alt="heroku" width="70" height="80"/>
 
 </p>
-
-## 📊 My Github Stats
-
 </div>
 <br> <br>
