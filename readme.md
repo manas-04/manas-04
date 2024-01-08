@@ -29,17 +29,12 @@
     <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=white" alt="express" width="70" height="80"/>
     <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="cpp" width="70" height="80"/>
     <img src="https://icongr.am/devicon/git-original.svg?size=129&color=36a1c4" alt="git" width="70" height="80"/> 
-    <img src="https://icongr.am/devicon/github-original.svg?size=129&color=36a1c4" alt="github" width="70" height="80"/>
     <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="70" height="80"/>
     <img src="https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor" alt="heroku" width="70" height="80"/>
 
 </p>
 
 ## 📊 My Github Stats
-
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manas-04&show_icons=true&theme=dark&locale=en&layout=compact" alt="manas-04" /> <div height="30"><h3 align="center"> 
-Thanks for Visiting!!</h3></div>
- <img align = "left" src="https://github-readme-stats.vercel.app/api?username=manas-04&hide=stars&show_icons=true&theme=dracula&line_height=28">
 
 </div>
 <br> <br>
