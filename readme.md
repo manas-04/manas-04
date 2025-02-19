@@ -11,7 +11,7 @@
  
  ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter** and **Data Structures and Algorithms.**
+- 🌱 I’m a **fullstack developer, mainly focused on backend**. 
 - 👯 I’m looking to collaborate on **FullStack Projects**.
 - 📫 Reach me **manas.arora04102@gmail.com**
 </h3>
