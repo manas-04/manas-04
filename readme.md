@@ -14,7 +14,7 @@
 
 I'm **Manas Arora**, a **Product Engineer** with **2 years of professional experience** in designing, developing, and deploying high-quality software solutions. My core expertise is in full-stack development, with a strong focus on building robust backend systems and delivering scalable web applications. I enjoy turning innovative ideas into products that solve real-world problems.
 
-- 🔭 **Current Role:** Product Engineer at *[Your Company Name]*
+- 🔭 **Current Role:** Product Engineer at *Shuru Technologies*
 - 🌱 **Focus Areas:** Backend Engineering, Product Development, Full-Stack Solutions
 - 🤝 **Collaborations:** Open to new opportunities and collaborative projects
 - 📫 **Contact:** [manas.arora04102@gmail.com](mailto:manas.arora04102@gmail.com)
@@ -34,7 +34,9 @@ I'm **Manas Arora**, a **Product Engineer** with **2 years of professional exper
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="C++" width="70" height="80"/>
   <img src="https://icongr.am/devicon/git-original.svg?size=129&color=36a1c4" alt="Git" width="70" height="80"/> 
   <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/heroku-original.svg?size=128&color=currentColor" alt="Heroku" width="70" height="80"/>
+  <img src="https://icongr.am/devicon/flutter-original.svg?size=128&color=currentColor" alt="Flutter" width="70" height="80"/>
+  <img src="https://icongr.am/devicon/dart-original.svg?size=128&color=currentColor" alt="Dart" width="70" height="80"/>
+  <img src="https://icongr.am/devicon/go-original-wordmark.svg?size=128&color=currentColor" alt="Golang" width="70" height="80"/>
 </p>
 
 ---
