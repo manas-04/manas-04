@@ -34,8 +34,8 @@ I'm **Manas Arora**, a **Product Engineer** with **2 years of professional exper
   <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="C++" width="70" height="80"/>
   <img src="https://icongr.am/devicon/git-original.svg?size=129&color=36a1c4" alt="Git" width="70" height="80"/> 
   <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/go-original-wordmark.svg?size=128&color=currentColor" alt="Golang" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" alt="Mysql" width="70" height="80"/>
+  <img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" alt="Golang" width="70" height="80"/>
+  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" width="70" height="80"/>
   <img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" alt="Android" width="70" height="80"/>
 </p>
 
