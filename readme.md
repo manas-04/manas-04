@@ -39,12 +39,6 @@ I'm **Manas Arora**, a **Product Engineer** with **2 years of professional exper
 
 ---
 
-## 📈 GitHub Stats
-
-[Manas Arora's GitHub stats](https://github-readme-stats.vercel.app/api?username=manas-04&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manas-arora-274b681b1/) or drop an email at [manas.arora04102@gmail.com](mailto:manas.arora04102@gmail.com). Let’s build something amazing together!
