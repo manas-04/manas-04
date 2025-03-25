@@ -24,8 +24,6 @@ I'm **Manas Arora**, a **Product Engineer** with **2 years of professional exper
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="HTML5" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="CSS3" width="70" height="80"/>
   <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" width="70" height="70"/>
   <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="Node.js" width="60" height="70"/> 
   <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="MongoDB" width="70" height="80"/>
