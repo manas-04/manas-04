@@ -48,7 +48,6 @@ I'm a **Product Engineer** with **2 years of professional experience** specializ
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/-Apache_Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
 ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 
 ### **Mobile Development**
