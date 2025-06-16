@@ -9,7 +9,7 @@
 I'm a **Product Engineer** with **3 years of professional experience** specializing in full-stack development and backend engineering. I'm passionate about designing, developing, and deploying high-quality software solutions that solve real-world problems. With expertise in building robust backend systems and scalable web applications, I thrive on turning innovative ideas into products that deliver exceptional user experiences.
 
 **Location:** India  
-**Email:** manas.arora04102@gmail.com  
+**Email:** manasarora038@gmail.com  
 **LinkedIn:** [linkedin.com/in/manas-arora-274b681b1](https://www.linkedin.com/in/manas-arora-274b681b1/)
 
 ---
@@ -81,7 +81,7 @@ I'm a **Product Engineer** with **3 years of professional experience** specializ
 I'm always interested in discussing new opportunities, collaborating on interesting projects, or just having a chat about technology and product development. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-arora-274b681b1/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manas.arora04102@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manasarora038@gmail.com)
 
 ---
 
