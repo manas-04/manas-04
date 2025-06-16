@@ -1,48 +1,86 @@
-### Hi there <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">, I'm Manas Arora
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=Hi+there%2C+my+name+is+Manas+Arora+%F0%9F%91%8B.;Welcome+to+my+github+profile!)](https://git.io/typing-svg)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=manas-04&style=flat" alt="Manas Arora" />
 </p>
 
+## About Me
+
+I'm a **Product Engineer** with **3 years of professional experience** specializing in full-stack development and backend engineering. I'm passionate about designing, developing, and deploying high-quality software solutions that solve real-world problems. With expertise in building robust backend systems and scalable web applications, I thrive on turning innovative ideas into products that deliver exceptional user experiences.
+
+**Location:** India  
+**Email:** manas.arora04102@gmail.com  
+**LinkedIn:** [linkedin.com/in/manas-arora-274b681b1](https://www.linkedin.com/in/manas-arora-274b681b1/)
+
+---
+
+## 🚀 Professional Experience
+
+### **Product Engineer** @ Shuru Technologies *(Current Role)*
+- 🏗️ Design and develop scalable backend systems and APIs that power innovative product solutions
+- 💻 Build full-stack web applications with focus on performance, reliability, and user experience
+- 🔧 Implement robust software architectures that support business growth and technical scalability
+- 📊 Collaborate with cross-functional teams to deliver high-quality products from concept to deployment
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming Languages**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Mobile Development**
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### **Tools & Platforms**
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## 💼 Professional Platforms
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-arora-274b681b1/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetCode&logoColor=white&color=grey)](https://leetcode.com/manas_04/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0077B5?style=for-the-badge&logo=geeksforgeeks&logoColor=white&color=success)](https://auth.geeksforgeeks.org/user/manasarora038)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/manas_04/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/manasarora038)
 
 ---
 
-## 👋 About Me
+## 📊 GitHub Stats
 
-I'm **Manas Arora**, a **Product Engineer** with **2 years of professional experience** in designing, developing, and deploying high-quality software solutions. My core expertise is in full-stack development, with a strong focus on building robust backend systems and delivering scalable web applications. I enjoy turning innovative ideas into products that solve real-world problems.
-
-- 🔭 **Current Role:** Product Engineer at *Shuru Technologies*
-- 🌱 **Focus Areas:** Backend Engineering, Product Development, Full-Stack Solutions
-- 🤝 **Collaborations:** Open to new opportunities and collaborative projects
-- 📫 **Contact:** [manas.arora04102@gmail.com](mailto:manas.arora04102@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manas-04&layout=compact&theme=radical)
 
 ---
 
-## 🚀 Technologies & Tools
+## 🤝 Let's Connect!
 
-<p align="center">
-  <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="JavaScript" width="70" height="70"/>
-  <img src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor" alt="Node.js" width="60" height="70"/> 
-  <img src="https://icongr.am/devicon/mongodb-original.svg?size=128&color=currentColor" alt="MongoDB" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="React" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=white" alt="Express" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor" alt="C++" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/git-original.svg?size=129&color=36a1c4" alt="Git" width="70" height="80"/> 
-  <img src="https://img.icons8.com/color/96/000000/firebase.png" alt="Firebase" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/go-original.svg?size=128&color=currentColor" alt="Golang" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/postgresql-original.svg?size=128&color=currentColor" alt="postgres" width="70" height="80"/>
-  <img src="https://icongr.am/devicon/android-original.svg?size=128&color=currentColor" alt="Android" width="70" height="80"/>
-</p>
+I'm always interested in discussing new opportunities, collaborating on interesting projects, or just having a chat about technology and product development. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-arora-274b681b1/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:manas.arora04102@gmail.com)
 
 ---
 
-## 🔗 Connect with Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/manas-arora-274b681b1/) or drop an email at [manas.arora04102@gmail.com](mailto:manas.arora04102@gmail.com). Let’s build something amazing together!
+## 🌱 Currently Learning & Exploring
+- Advanced Backend Architecture Patterns
+- Cloud Technologies & DevOps
+- System Design & Scalability
 
 ---
 
-<!-- Optional: You can add more sections such as Projects, Blogs, or Experience if you’d like -->
+*⭐ From [manas-04](https://github.com/manas-04)*
