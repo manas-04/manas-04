@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm a **Product Engineer** with **2 years of professional experience** specializing in full-stack development and backend engineering. I'm passionate about designing, developing, and deploying high-quality software solutions that solve real-world problems. With expertise in building robust backend systems and scalable web applications, I thrive on turning innovative ideas into products that deliver exceptional user experiences.
+I'm a **Product Engineer** with **3 years of professional experience** specializing in full-stack development and backend engineering. I'm passionate about designing, developing, and deploying high-quality software solutions that solve real-world problems. With expertise in building robust backend systems and scalable web applications, I thrive on turning innovative ideas into products that deliver exceptional user experiences.
 
 **Location:** India  
 **Email:** manas.arora04102@gmail.com  
